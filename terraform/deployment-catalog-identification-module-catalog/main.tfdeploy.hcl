@@ -5,5 +5,3 @@ publish_output "module_catalog" {
   value       = deployment.default.module_catalog
   description = "Exposed catalog data for downstream stacks"
 }
-
-# test
